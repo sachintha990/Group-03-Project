@@ -1,0 +1,10 @@
+How to Run this project....
+
+1.frist extract this file
+2.Copy the web project folder and paste to xampp server folder. (windows > xampp > htdocs)
+3.open your local server (xampp)
+4.Go to import and choose file for "pixelprosper" database file. (web project > database > pixelprosper.sql )
+5. Now Run to project (localhost/Web Project)
+
+
+
